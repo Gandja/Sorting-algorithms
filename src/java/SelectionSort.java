@@ -12,6 +12,10 @@ public class SelectionSort {
         }
     }
 
+    public static void main(Integer[] args) {
+
+    }
+
     /**
      * Swap elements of array
      *
